@@ -12,6 +12,6 @@ Program   : BS in Information Technology (I)
   <li>SecretTest.java</li>
 </ul>
 
-<div class="text-red mb-2">
+<div style="color: red;">
   NOTE: Be sure to change the author inside the files before passing it.
 </div>
