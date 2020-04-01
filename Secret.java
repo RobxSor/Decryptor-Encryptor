@@ -4,7 +4,7 @@
  * Room:        D528
  *
  * Instructor:  Dalos D. Miguel
- * Program:     Programming 2
+ * Program:     Computer Programming 2
  */
 
 import java.lang.*;
