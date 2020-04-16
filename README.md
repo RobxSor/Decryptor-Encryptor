@@ -12,5 +12,3 @@ Program   : BS in Information Technology (I)
   <li>SecretTest.java</li>
 </ul>
 
-<h4>NOTE: Be sure to change the author inside the files before passing it.</h4>
-
